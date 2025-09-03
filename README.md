@@ -51,7 +51,7 @@ The bird moves based on the direction and strength of the player's drag, with a 
 ---
 
 ## 📁 Main Project Structure
-- **Assets/Scripts/** 📂  
+- **Assets/Scripts/** 
   - `Bird.cs` – controls bird movement and interaction 
   - `Enemy.cs` – handles enemy destruction on contact  
   - `GameButtons.cs` – UI button functionality
