@@ -65,7 +65,8 @@ The bird moves based on the direction and strength of the player's drag, with a 
 
 ## Video Demo
 The video includes:  
-- Demonstration of the game and main features  
+- Demonstration of the game and main features
+- https://www.youtube.com/watch?v=5806PCnyOBI  
 
 ---
 
