@@ -1,0 +1,12 @@
+# Unity temp/cache (won't affect your Assets folder)
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS junk
+.DS_Store
+Thumbs.db
