@@ -20,16 +20,16 @@ The bird moves based on the direction and strength of the player's drag, with a 
 ---
 
 ## ✨ Key Features
-- 🎚️ 5 interconnected levels with progressive difficulty  
-- 👾 4 different types of enemies for visual variety  
-- 🎛️ Functional UI buttons:  
+- 5 interconnected levels with progressive difficulty  
+- 4 different types of enemies for visual variety  
+- Functional UI buttons:  
   - **🔄 Restart Level** – restart the current level  
   - **🏠 Restart Game** – return to the first level  
   - **📊 Levels** – dropdown menu to select a specific level  
   - **🚪 Quit Game** – exit the game  
-- 🏆 Victory screen after completing the final level  
-- 💥 Visual effects when enemies are eliminated  
-- 🔄 Automatic return to level 1 after winning the last level  
+- Victory screen after completing the final level  
+- Visual effects when enemies are eliminated  
+- Automatic return to level 1 after winning the last level  
 
 ---
 
@@ -52,14 +52,14 @@ The bird moves based on the direction and strength of the player's drag, with a 
 
 ## 📁 Main Project Structure
 - **Assets/Scripts/** 📂  
-  - `Bird.cs` – controls bird movement and interaction 🦅  
-  - `Enemy.cs` – handles enemy destruction on contact 👾  
-  - `GameButtons.cs` – UI button functionality 🎛️  
-  - `LevelController.cs` – level progression logic 🔄  
-  - `LevelSelector.cs` – manual level selection from dropdown 📊  
-- **Assets/Prefabs/** – e.g., "poof" cloud particles prefab 💨  
-- **Assets/Scenes/** – levels (Level1, Level2, … Level5) 🎚️  
-- **Assets/TextMeshPro/** – advanced text rendering in UI 🔤  
+  - `Bird.cs` – controls bird movement and interaction 
+  - `Enemy.cs` – handles enemy destruction on contact  
+  - `GameButtons.cs` – UI button functionality
+  - `LevelController.cs` – level progression logic  
+  - `LevelSelector.cs` – manual level selection from dropdown  
+- **Assets/Prefabs/** – e.g., "poof" cloud particles prefab  
+- **Assets/Scenes/** – levels (Level1, Level2, … Level5)  
+- **Assets/TextMeshPro/** – advanced text rendering in UI  
 
 ---
 
